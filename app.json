@@ -4,9 +4,9 @@
     "slug": "projeto",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "https://www.flaticon.com/br/icone-gratis/uniao-europeia_197615",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://www.flaticon.com/br/icone-gratis/uniao-europeia_197615",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -26,7 +26,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "https://www.flaticon.com/br/icone-gratis/uniao-europeia_197615"
     }
   }
 }
